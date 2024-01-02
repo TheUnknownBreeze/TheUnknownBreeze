@@ -1,8 +1,5 @@
--Hi, I’m breezy :>
--I like penguins
--trying to do code with only a bit of lua knowledge lol
--i wanna try to make mods
--i have twitter lol
+I'm breezy, also known as breeze
+I just do stuff for fun :P
 
 <!---
 TheUnknownBreeze/TheUnknownBreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
